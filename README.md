@@ -35,51 +35,51 @@ A full-stack e-commerce application built using the MERN stack, featuring a cust
 
 ** 🎨Frontend**
 
-HTML5, CSS3,Tailwind,JavaScript (ES6+)
+- HTML5, CSS3,Tailwind,JavaScript (ES6+)
 
-React.js, JSX, React Hooks
+- React.js, JSX, React Hooks
 
-React Router, Context API
+- React Router, Context API
 
-Responsive UI development
+- Responsive UI development
 
-REST API integration
+- REST API integration
 
-State management and reusable components
+- State management and reusable components
 
 ** ⚙️Backend & Database**
 
-Node.js and Express.js
+- Node.js and Express.js
 
-RESTful API development and CRUD operations
+- RESTful API development and CRUD operations
 
-Authentication and authorization using JWT
+- Authentication and authorization using JWT
 
-Middleware, error handling, and role-based access control
+- Middleware, error handling, and role-based access control
 
-MongoDB and MongoDB Atlas
+- MongoDB and MongoDB Atlas
 
-Mongoose ODM, database schemas, and models
+- Mongoose ODM, database schemas, and models
 
-Data validation and database operations
+- Data validation and database operations
 
 ** 🔧Tools, Deployment & Integrations **
 
-Git and GitHub for version control
+- Git and GitHub for version control
 
-Postman for API testing
+- Postman for API testing
 
-Visual Studio Code and npm
+- Visual Studio Code and npm
 
-Debugging and troubleshooting
+- Debugging and troubleshooting
 
-Frontend deployment with Vercel
+- Frontend deployment with Vercel
 
-Backend deployment with Render
+-Backend deployment with Render
 
-Cloudinary for image storage and uploads
+- Cloudinary for image storage and uploads
 
-Stripe test-mode payment integration
+- Stripe test-mode payment integration
 
 
 ---
